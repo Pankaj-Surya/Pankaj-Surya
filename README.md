@@ -1,31 +1,69 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://kallyansingha.ml)
-<h1 align="center">Hi 👋, I'm Pankaj Suryavanshi</h1>
-<h3 align="center">A passionate full software engineer from India</h3>
+[![MasterHead](https://drive.google.com/uc?export=view&id=15iJlpt0xD4jRqR7Y7jz0kRNH64Z5Jxx_)](https://kallyansingha.ml)
+
+
+## About Me  
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankaj-surya&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj-surya" /> </p>
 
-<p align="left"> <a href="https://twitter.com/pankajs90061971" target="blank"><img src="https://img.shields.io/twitter/follow/pankajs90061971?logo=twitter&style=for-the-badge" alt="pankajs90061971" /></a> </p>
+💼 **Software Engineer** at **JKTech**, specializing in **Automation Testing** and delivering high-quality software solutions.  
 
-- 🔭 I’m currently working on **Ecommerce website**
+🚀 Aspiring **SDET**, focused on mastering **Automation Testing**, **API Testing**, and **Performance Testing**.  
 
-- 🌱 I’m currently learning **MERN**
+🌱 Exploring **AWS**, **GCP**, and **cloud-native technologies** and the **MERN stack** for seamless development and testing integration.  
 
-- 💬 Ask me about **React,Redux,MongoDB,MySQL,MsSQL,Nodejs,JavaScript,Java**
+🤝 Building **CI/CD pipelines** with **Jenkins** and **GitHub Actions**, and enhancing skills in tools like **JMeter** and **Playwright**.  
 
-- 📫 How to reach me **pankajsuryavanshi731@gmail.com**
+🌟 Sharing insights on **Hashnode** and contributing to **open-source projects** to give back to the tech community.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pankajs90061971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pankajs90061971" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/pankaj-suryavanshi-ba2635151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pankaj-suryavanshi-ba2635151" height="30" width="40" /></a>
-</p>
+📫 Reach me at: pankajsuryavanshi731@gmail.com
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+Resume
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankaj-surya&show_icons=true&locale=en&layout=compact" alt="pankaj-surya" /></p>
+## Resume
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankaj-surya&show_icons=true&locale=en" alt="pankaj-surya" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankaj-surya" alt="pankaj-surya" /></a> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj-surya&" alt="pankaj-surya" /></p>
+📄 Check out my [resume](https://drive.google.com/file/d/1HdHOkWRsUmFREXey94hTmmqL_9C8saOf/view?usp=sharing) for more details on my experience and skills.
+
+## Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rinaldo-badigar)](https://www.linkedin.com/in/pankaj-suryavanshi/)
+[![HashNode](https://img.shields.io/badge/-HashNode-lightblue?style=for-the-badge&logo=hashnode&logoColor=white&link=https://hashnode.com/@Rinaldo)](https://hashnode.com/@pankaj1998)
+
+## Languages and Tools:
+
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge)
+![TestNG](https://img.shields.io/badge/-TestNG-FFCA28?logo=testing&logoColor=black&style=for-the-badge)
+![JUnit](https://img.shields.io/badge/-JUnit-25A162?logo=junit5&logoColor=white&style=for-the-badge)
+![RestAssured](https://img.shields.io/badge/-RestAssured-5A9BD5?logo=api&logoColor=white&style=for-the-badge)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white&style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![JMeter](https://img.shields.io/badge/-JMeter-FD5959?logo=jmeter&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![React.js](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
+
+
+## Most Used Languages:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj-Surya&layout=compact&theme=radical&hide_border=true)
+
+## 📈 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pankaj-Surya&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D)
+
+<!-- ## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pankaj-Surya&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical) -->
+
+---
 
